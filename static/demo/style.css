@@ -1,0 +1,10 @@
+.first input {
+    display: block;
+    margin-bottom: 15px;
+    padding: 6px;
+}
+
+.first label {
+    display: block;
+    margin-top: 10px;
+}
