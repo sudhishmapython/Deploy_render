@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ts0(+b=_c=)5y4440a0bnu%vvh!=lk4d4q$2*6$yu8_qy%1le^
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "crud-project.onrender.com",
+    "deploy-render-xngb.onrender.com",
 ]
 
 
